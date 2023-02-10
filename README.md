@@ -26,11 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop version
-![](images/Final_Desktop.JPG)
-
-Mobile version
-![](images/Final_Mobile.JPG)
+![](images/Final_Desktop.JPG) ![](images/Final_Mobile.JPG)
 
 ### Links
 
