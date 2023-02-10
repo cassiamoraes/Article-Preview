@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/cassiamoraes/Article-Preview)
-- Live Site URL: [Add live site URL here](https://cassiamoraes.github.io/Article-Preview/)
+- Solution URL: [Article Preview Site](https://github.com/cassiamoraes/Article-Preview)
+- Live Site URL: [Article Preview Solution](https://cassiamoraes.github.io/Article-Preview/)
 
 ## My process
 
