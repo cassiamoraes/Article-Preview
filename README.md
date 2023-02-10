@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Final_Desktop.jpg) ![](images/Final_Mobile.jpg)
+![](images/Final_Desktop.jpg) 
+![](images/Final_Mobile.jpg)
 
 ### Links
 
